@@ -5,7 +5,7 @@ Este pequeno projeto faz parte do material diático da Disciplina **Desenvolvime
 O objetivo aqui é ilustrar o conteúdo apresentado ao longo das três aulas da disciplina
 ---
 # Projeto
-O projeto é uma API de cadastro de livros. O usuario pode cadastrar consultar e deletar os livros no banco de dados 
+O projeto é uma API de cadastro de livros. O usuário pode cadastrar consultar e deletar os livros no banco de dados 
 ---
 ## Como executar 
 
